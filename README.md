@@ -38,7 +38,7 @@ During my time at Driver I built a feature that detects car crashes with audio a
 Implemented code following existing dependency management architecture. This required using AVFoundation to record a stream parallel audio files.
 
 # Projects
-### OZLive
+### [OZLive](https://github.com/olijujuangreen/OZLive)
 OZLive is a virtual theater experience with the accompaniment of a live chat.
 I used Firebase for storage and Authentication along AVFoundation for the video functionality.
 [Joey Rubin](https://github.com/josemv3) is an ongoing contributor to this project.
