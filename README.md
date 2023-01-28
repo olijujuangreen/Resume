@@ -21,7 +21,7 @@ app in the app store.
 
 
 ### Freelance Wordpress Developer<br>[First Steps for Kids, Inc.](https://www.firststepsforkids.com/)
-Jun 2022 - Jul 2022<br>
+Jun 2022 - Aug 2022<br>
 FirstSteps offers both Comprehensive and Focused intervention
 programs for children with Autism and related developmental
 and behavioral diagnosis. My partners and I rebuilt their website from scratch to launch using
