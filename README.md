@@ -11,8 +11,8 @@ and skills. I am currently looking for a full-time position.
 
 
 # Experience
-##Freelance iOS Developer
-###Hypnoloops
+Freelance iOS Developer
+Hypnoloops
 Jan 2023 - Present
 Hypno Loops is a mindfulness app that allows you to record
 your own affirmations, that loop to soundscapes. My job is to
