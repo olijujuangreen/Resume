@@ -37,4 +37,15 @@ lane, falling asleep or getting too distracted.
 During my time at Driver I built a feature that detects car crashes with audio and
 Implemented code following existing dependency management architecture. This required using AVFoundation to record a stream parallel audio files.
 
+# Projects
+### OZLive
+OZLive is a virtual theater experience with the accompaniment of a live chat.
+I used Firebase for storage and Authentication along AVFoundation for the video functionality.
+[Joey Rubin](https://github.com/josemv3) is an ongoing contributor to this project.
+
+
+### CoinRadar
+Coin Radar is a cryptocurrency tracking application that shows cryptocurrency/finance news and tracks the value of the
+top 100 cryptocurrency and visualizes their historical data in a chart. It uses JSONSerialization to parse data from complex
+and tangled JSON trees and the iOS Charts cocoapod for data visualization.
 
